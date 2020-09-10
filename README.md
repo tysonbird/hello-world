@@ -1,7 +1,2 @@
 # hello-world
-Learning how to use GitHub
-
-I work at the Spokesman-Review in Spokane, Washington
-We are moving to a Git server soon so I need to freshen up on how to use it.
-
-Also, I'd like to host my own website on GitHub.
+I started this a long time ago but it's a simple GitHub repository that displays a page. You can add all sorts of stuff, like [links] (https://google.com)!
